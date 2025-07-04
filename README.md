@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm @devang1304 👋
 
-<!--
-**devang1304/devang1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Science and AI Student with a broad passion for technology, from developing intelligent AI systems to architecting robust cloud infrastructure. I enjoy solving complex problems and exploring the practical applications of machine learning across different domains.
 
-Here are some ideas to get you started:
+- 🎓 Data Science and AI Student
+- 💻 Enthusiastic about AI, Cloud, and Software Development
+- ✈️ Avid traveler, adventurer, and cultural explorer
+- 🏎️ Formula 1 enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, Java, SQL
+- **Artificial Intelligence:** Machine Learning, Neural Networks, AI Agent Systems, Explainable AI
+- **Cloud & Infrastructure:** Cloud Infrastructure (AWS, Azure, GCP), Database Systems
+- **Cybersecurity:** Applying AI for enhanced security solutions
