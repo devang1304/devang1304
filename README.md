@@ -1,6 +1,6 @@
 # Hi there, I'm @devang1304 👋
-- 🔗 Portfolio: https://devang1304.github.io
-- 💼 LinkedIn: https://www.linkedin.com/in/devang1304/
+- 🔗 **Portfolio:** [Visit my website](https://devang1304.github.io)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/devang1304/)
 ## About Me
 I am a Data Science and AI Student with a broad passion for technology, from developing intelligent AI systems to architecting robust cloud infrastructure. I enjoy solving complex problems and exploring the practical applications of machine learning across different domains.
 
